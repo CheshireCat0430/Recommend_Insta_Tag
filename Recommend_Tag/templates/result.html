@@ -1,0 +1,22 @@
+{% extends "base.html"  %}
+
+{% block content %}
+    <h1> 업로드 된 이미지들 </h1>
+ 
+    <p>
+         <button type="button" onclick="location.href='/' ">뒤로가기</button>
+    </p>
+ 
+    <img src="{{url_for('static', filename=image_file)}}"/>
+    <br>
+    <div>
+        <h2>Predict</h2>
+        {{ pre1 }}<br>
+        {{ pre2 }}
+    </div>
+    <br>
+    <div>
+        <h2>Recommand</h2>
+        {{ rec }}
+    </div>
+{% endblock %}

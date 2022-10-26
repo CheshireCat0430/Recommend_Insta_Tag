@@ -1,0 +1,8 @@
+# scratch 가상환경에 있는 파일 무시
+recvenv/
+.vscode/
+
+# history 제외
+*.pyc
+*~
+__pycache__

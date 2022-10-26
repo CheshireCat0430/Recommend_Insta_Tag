@@ -1,0 +1,25 @@
+pie
+salad
+bread
+cake
+curry
+sandwich
+chicken
+donut
+french fries
+yogurt
+hamburger
+icecream
+lobster
+rice
+soup
+pizza
+pork
+rib
+steak
+taco
+sushi
+waffle
+pasta
+pho
+ramen
